@@ -19,7 +19,7 @@
   "homepage": "https://github.com/heilerich/te-pdfj#readme",
   "dependencies": {
     "pdf-lib": "^1.9.0",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "socket.io-stream": "^0.9.1"
   }
 }
